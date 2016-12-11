@@ -1,4 +1,5 @@
 # vnc4go
- - Implementing Native VNC Libraries in Go
+ - Implementing Native C VNC Libraries in Go
  
-Implementing the VNC C library for Go usage.
+## Reference
+- https://github.com/LibVNC/libvncserver
